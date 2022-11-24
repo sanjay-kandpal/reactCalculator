@@ -70,6 +70,9 @@ button{
   padding: 6px;
   
 }
+button:hover{
+  background-color: rgb(226, 30, 0);
+}
 div[data-type="="]{
   grid-column: 1/4; 
   gap: 2px 2px;
